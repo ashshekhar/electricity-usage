@@ -8,4 +8,4 @@ The usage data represents the US electricity consumption for different years in 
  `el.m` contains the MATLAB code to visualize the data 
 
 ## Graph Generated
-![Graph Generated]()
+![Graph Generated](https://github.com/ashshekhar/electricity-usage/blob/master/output.png)
