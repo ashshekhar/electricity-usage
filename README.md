@@ -5,7 +5,7 @@ In this project, we will plot electricity usage for various economic sectors - `
 The usage data represents the US electricity consumption for different years in the month of July. The usage data are in `10^9 kWh/day`, and the price data is in `US cents per kWh`
 
 ## Code
-  `el.m:` Contains the MATLAB code to visualize the data 
+ `el.m` contains the MATLAB code to visualize the data 
 
 ## Graph Generated
 ![Graph Generated]()
