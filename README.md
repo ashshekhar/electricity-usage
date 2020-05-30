@@ -9,3 +9,7 @@ The usage data represents the US electricity consumption for different years in 
 
 ## Graph Generated
 ![Graph Generated](https://github.com/ashshekhar/electricity-usage/blob/master/output.png)
+
+## Observations
+1.  Based on the above graph, it is clear that the `residential sector` consumption is the highest 
+2. The `industrial sector` electricity usage is fairly consistent and does not seem to fluctuate as much as the others
