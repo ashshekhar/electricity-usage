@@ -5,7 +5,7 @@
 # Electricity data is stored in a file named electricity.mat. Load that MAT-file into MATLAB
 # Then enter usage in the script to see the matrix
 
-load electricity
+load electricity.mat
 usage
 
 # Task 2
